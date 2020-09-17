@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1599338309 source:c:\users\marcelo\desktop\primer cuatri\funciones5\arcajo.c
+	"arcajo.h"
+
+1599338104 c:\users\marcelo\desktop\primer cuatri\funciones5\arcajo.h
+
+1599338457 source:c:\users\marcelo\desktop\primer cuatri\funciones5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arcajo.h"
+
